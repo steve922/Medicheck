@@ -1,0 +1,6 @@
+name = "medicheck"
+pages_build_output_dir = "./frontend/build"
+compatibility_date = "2025-07-02"
+
+[vars]
+OPENAI_API_KEY = "🔑"
